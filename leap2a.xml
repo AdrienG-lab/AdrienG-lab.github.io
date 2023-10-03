@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:leap2="http://terms.leapspecs.org/"
+    xmlns:categories="http://wiki.leapspecs.org/2A/categories/"
+    xmlns:portfolio="https://portfolio.u-bordeaux.fr/export/leap/207/1696242860/"
+    xmlns:mahara="https://wiki.mahara.org/wiki/Developer_Area/Import//Export/LEAP_Extensions"
+>
+    <leap2:version>http://www.leapspecs.org/2010-07/2A/</leap2:version>
+    <id>https://portfolio.u-bordeaux.fr/export/207/1696242860</id>
+    <title>Mahara Leap2A Export for Adrien Gintrand, 02/10/2023 12:34</title>
+    <updated>2023-10-02T12:12:20+02:00</updated>
+    <generator uri="https://mahara.org/" version="2008122400">Mahara</generator>
+    <author>
+        <name>Adrien Gintrand</name>
+        <email>adrien.gintrand@u-bordeaux.fr</email>
+        <uri>portfolio:artefactinternal</uri>
+    </author>
+
+    <entry>
+        <title>Portfolio  de compétences - Accueil</title>
+        <id>portfolio:view456</id>
+
+        <updated>2023-03-16T14:02:06+01:00</updated>
+        <published>2015-09-27T15:03:50+02:00</published>
+
+        <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div></div></div></summary>
+
+   <subtitle type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div></div></div></subtitle>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div><div id="user_block_58683"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_58683">
+        
+        <div class="block-header quick-edit d-none">
+            <a class="quickeditlink modal_link list-group-heading" href="#" title="Édition rapide">
+        <span class="icon icon-pencil-alt" title="Édition rapide"></span>
+        Édition rapide
+    </a>
+
+        </div>
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Présentation
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_58683_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+<p>Je suis étudiant en BUT GCCD, en 1ère année.</p>
+<p>Ce portfolio est là pour présenter mes différentes productions et apporter la preuve de mes compétences.</p>
+<p>On y trouvera donc :</p>
+<ul><li>Différentes productions réalisées, qui sont à mes yeux particulièrement intéressantes.</li>
+<li>Toues les explications permettant de comprendre comment elles ont été produites, à partir de quels documents et leur analyse critique</li>
+</ul><p>Ce portfolio est organisé suivant les différentes compétences abordées dans le BUT GCCD.</p>
+</div>
+
+
+        
+    </div>
+</div>
+</div><div id="user_block_58699"><div class="bt-creativecommons gridstackblock card card-secondary card-brand clearfix" id="user_blockinstance_58699">
+        
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Licence Creative Commons
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_58699_target">
+        
+        
+            
+<div class="license card-body">
+
+    <div class="detail metadata">
+    <a class="licenseicon float-start" href="http://creativecommons.org/licenses/by-nd/3.0/">
+        <img alt="Licence Creative Commons" src="https://portfolio.u-bordeaux.fr/theme/raw/plugintype/blocktype/creativecommons/images/by-nd-3_0.png" /></a>
+        <p><span>Portfolio  de compétences - Accueil</span> par <a href="https://portfolio.u-bordeaux.fr/user/view.php?id=207">Adrien Gintrand</a> est distribué selon les termes d'une licence <a href="http://creativecommons.org/licenses/by-nd/3.0/">Creative Commons Paternité-Pas de Modification 3.0 Unported</a>.</p>
+        <p>Les autorisations au-delà de la portée de cette licence peuvent être obtenues auprès de <a href="https://portfolio.u-bordeaux.fr/user/view.php?id=207">Adrien Gintrand</a>.</p>
+    </div>
+
+</div>
+
+        
+    </div>
+</div>
+</div><div id="user_block_58700"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_58700">
+        
+        <div class="block-header quick-edit d-none">
+            <a class="quickeditlink modal_link list-group-heading" href="#" title="Édition rapide">
+        <span class="icon icon-pencil-alt" title="Édition rapide"></span>
+        Édition rapide
+    </a>
+
+        </div>
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Classeur de compétences
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_58700_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+<p>Ce dossier <a href="https://docs.google.com/spreadsheets/d/1bw3Y_T-jrnRfrZVf3Z7Dr6Yvu_RwHSNRirUVx4KMKFg/edit?usp=sharing">Google sheet </a>récapitule l'évolution du développement de mes compétences tout au long de la première année.</p>
+<p>Cette évaluation est à la fois basée sur les retours des évaluations réalisées avec les enseignants et en auto évaluation.</p>
+</div>
+
+
+        
+    </div>
+</div>
+</div><div id="user_block_120999"><div class="bt-text gridstackblock card card-secondary clearfix" id="user_blockinstance_120999">
+        
+        <div class="block-header quick-edit d-none">
+            <a class="quickeditlink modal_link list-group-heading" href="#" title="Édition rapide">
+        <span class="icon icon-pencil-alt" title="Édition rapide"></span>
+        Édition rapide
+    </a>
+
+        </div>
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Compétences BUT1
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_120999_target">
+        
+        
+            
+
+<div class="textblock card-body flush">
+<p><a href="https://portfolio.u-bordeaux.fr/view/view.php?id=11104">BC1 - Élaborer des solutions techniques en bâtiment</a></p>
+<p><a href="https://portfolio.u-bordeaux.fr/view/view.php?id=11105">BC2 - Élaborer des solutions techniques en travaux publics</a></p>
+<p>BC3 - Dimensionner</p>
+<p>BC4 - Organiser un chantier</p>
+<p>BC5 - Piloter un ouvrage tout au long de sa vie</p>
+</div>
+
+
+        
+    </div>
+</div>
+</div><div id="user_block_60056"><div class="bt-gallery gridstackblock card card-secondary clearfix" id="user_blockinstance_60056">
+        
+        <div class="block-header d-none details-comments">
+    
+        
+        <a class="detailslink modal_link list-group-heading" href="#" title="Détails">
+            <span class="icon icon-search-plus bh-details-only" title="Détails"></span>
+            
+                Détails
+            
+        </a>
+    
+</div>
+
+    
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Quelques productions...
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_60056_target">
+        
+        
+            <div id="user_thumbnails60056" class="card-body thumbnails js-masonry">
+    
+        <div style="width:75px;" class="thumb">
+            
+                <a class="gallery-popup">
+                    <img style="height:75px;" rel="leap2:has_part" href="portfolio:artefact27930" id="user_27930" alt="" width="75" height="75" /></a>
+            
+        </div>
+    
+        <div style="width:75px;" class="thumb">
+            
+                <a class="gallery-popup">
+                    <img style="height:75px;" rel="leap2:has_part" href="portfolio:artefact27932" id="user_27932" alt="" width="75" height="75" /></a>
+            
+        </div>
+    
+        <div style="width:75px;" class="thumb">
+            
+                <a class="gallery-popup">
+                    <img style="height:75px;" rel="leap2:has_part" href="portfolio:artefact27933" id="user_27933" alt="" width="75" height="75" /></a>
+            
+        </div>
+    
+        <div style="width:75px;" class="thumb">
+            
+                <a class="gallery-popup">
+                    <img style="height:75px;" rel="leap2:has_part" href="portfolio:artefact27931" id="user_27931" alt="" width="75" height="75" /></a>
+            
+        </div>
+    
+</div>
+
+
+
+<div class="modal fade" id="user_gallerymodal">
+    <div class="modal-dialog modal-dialog-centered gallery">
+        <div class="modal-content">
+            <div class="modal-header gallery">
+                <div class="modal-header-title"></div>
+                <div class="modal-title gallery">
+                    <button class="deletebutton btn-close gallery">
+                        <span class="times">×</span>
+                        <span class="visually-hidden">Fermer</span>
+                    </button>
+                </div>
+            </div>
+            <div class="modal-body gallery">
+                <div class="modal-image"></div>
+                <div class="modal-caption"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+</div>
+</div>
+</div><div id="user_block_62999"><div class="bt-placeholder gridstackblock card card-secondary clearfix" id="user_blockinstance_62999">
+        
+    
+        <h2 class="title card-header js-heading">
+            
+
+            <span class="collapse-inline">
+                Mon Alternance chez GROUIK Construction
+                
+            </span>
+
+            
+
+        </h2>
+    
+
+    <div class="block" id="user_blockinstance_62999_target">
+        
+        
+            <p class="content-text lead">Veuillez modifier ce bloc pour choisir son type</p>
+        
+    </div>
+</div>
+</div></div></div></content>
+        <rdf:type rdf:resource="leap2:selection"/>
+
+        <link rel="leap2:has_part" href="portfolio:artefact27930"/>
+        <link rel="leap2:has_part" href="portfolio:artefact27931"/>
+        <link rel="leap2:has_part" href="portfolio:artefact27932"/>
+        <link rel="leap2:has_part" href="portfolio:artefact27933"/>
+
+
+        <category term="Webpage" scheme="categories:selection_type#"/>
+
+
+
+
+
+        <mahara:view mahara:newlayout="1" mahara:type="portfolio" mahara:ownerformat="6">
+        
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Présentation" mahara:positionx="0" mahara:positiony="0" mahara:height="31" mahara:width="12">
+                
+                    
+                    <mahara:text>[&quot;&lt;p&gt;Je suis &amp;eacute;tudiant en BUT GCCD, en 1&amp;egrave;re ann&amp;eacute;e.&lt;\/p&gt;\r\n&lt;p&gt;Ce portfolio est l&amp;agrave; pour pr&amp;eacute;senter mes diff&amp;eacute;rentes productions et apporter la preuve de mes comp&amp;eacute;tences.&lt;\/p&gt;\r\n&lt;p&gt;On y trouvera donc :&lt;\/p&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;Diff&amp;eacute;rentes productions r&amp;eacute;alis&amp;eacute;es, qui sont &amp;agrave; mes yeux particuli&amp;egrave;rement int&amp;eacute;ressantes.&lt;\/li&gt;\r\n&lt;li&gt;Toues les explications permettant de comprendre comment elles ont &amp;eacute;t&amp;eacute; produites, &amp;agrave; partir de quels documents et leur analyse critique&lt;\/li&gt;\r\n&lt;\/ul&gt;\r\n&lt;p&gt;Ce portfolio est organis&amp;eacute; suivant les diff&amp;eacute;rentes comp&amp;eacute;tences abord&amp;eacute;es dans le BUT GCCD.&lt;\/p&gt;&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="creativecommons" mahara:blocktitle="Licence Creative Commons" mahara:positionx="0" mahara:positiony="31" mahara:height="31" mahara:width="4">
+                
+                    
+                    <mahara:seal>[&quot;&lt;div id=\&quot;freecultureseal\&quot; class=\&quot;fr\&quot;&gt;&lt;a href=\&quot;http:\/\/freedomdefined.org\/\&quot;&gt;&lt;img \&quot;alt=\&quot;Cette licence est acceptable pour les oeuvres culturelles libres.\&quot; onload=\&quot;jQuery(&#039;#freecultureseal&#039;).insertBefore(&#039;#insconf&#039;); jQuery(&#039;#instconf&#039;).addClass(&#039;fl&#039;);\&quot; style=\&quot;border-width:0;\&quot; src=\&quot;http:\/\/portfolio.u-bordeaux.fr\/theme\/raw\/plugintype\/blocktype\/creativecommons\/images\/seal.png\&quot; \/&gt;&lt;\/a&gt;&lt;\/div&gt;&quot;]</mahara:seal>
+                    
+                
+                    
+                    <mahara:noncommercial>[&quot;0&quot;]</mahara:noncommercial>
+                    
+                
+                    
+                    <mahara:noderivatives>[&quot;2&quot;]</mahara:noderivatives>
+                    
+                
+                    
+                    <mahara:version>[&quot;30&quot;]</mahara:version>
+                    
+                
+                    
+                    <mahara:retractable>[0]</mahara:retractable>
+                    
+                
+                    
+                    <mahara:retractedonload>[0]</mahara:retractedonload>
+                    
+                
+                    
+                    <mahara:license>[&quot;by-nd&quot;]</mahara:license>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Classeur de compétences" mahara:positionx="4" mahara:positiony="31" mahara:height="24" mahara:width="8">
+                
+                    
+                    <mahara:text>[&quot;&lt;p&gt;Ce dossier &lt;a href=\&quot;https:\/\/docs.google.com\/spreadsheets\/d\/1bw3Y_T-jrnRfrZVf3Z7Dr6Yvu_RwHSNRirUVx4KMKFg\/edit?usp=sharing\&quot;&gt;Google sheet &lt;\/a&gt;r&amp;eacute;capitule l&#039;&amp;eacute;volution du d&amp;eacute;veloppement de mes comp&amp;eacute;tences tout au long de la premi&amp;egrave;re ann&amp;eacute;e.&lt;\/p&gt;\r\n&lt;p&gt;Cette &amp;eacute;valuation est &amp;agrave; la fois bas&amp;eacute;e sur les retours des &amp;eacute;valuations r&amp;eacute;alis&amp;eacute;es avec les enseignants et en auto &amp;eacute;valuation.&lt;\/p&gt;&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Compétences BUT1" mahara:positionx="4" mahara:positiony="55" mahara:height="30" mahara:width="8">
+                
+                    
+                    <mahara:text>[&quot;&lt;p&gt;&lt;a href=\&quot;https:\/\/portfolio.u-bordeaux.fr\/view\/view.php?id=11104\&quot;&gt;BC1 - &amp;Eacute;laborer des solutions techniques en b&amp;acirc;timent&lt;\/a&gt;&lt;\/p&gt;\r\n&lt;p&gt;&lt;a href=\&quot;https:\/\/portfolio.u-bordeaux.fr\/view\/view.php?id=11105\&quot;&gt;BC2 - &amp;Eacute;laborer des solutions techniques en travaux publics&lt;\/a&gt;&lt;\/p&gt;\r\n&lt;p&gt;BC3 - Dimensionner&lt;\/p&gt;\r\n&lt;p&gt;BC4 - Organiser un chantier&lt;\/p&gt;\r\n&lt;p&gt;BC5 - Piloter un ouvrage tout au long de sa vie&lt;\/p&gt;&quot;]</mahara:text>
+                    
+                
+                    
+                    <mahara:instructions></mahara:instructions>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="gallery" mahara:blocktitle="Quelques productions..." mahara:positionx="0" mahara:positiony="62" mahara:height="20" mahara:width="4">
+                
+                    
+                    <mahara:user>[&quot;207&quot;]</mahara:user>
+                    
+                
+                    
+                    <mahara:select>[&quot;1&quot;]</mahara:select>
+                    
+                
+                    
+                    <mahara:style>[&quot;2&quot;]</mahara:style>
+                    
+                
+                    
+                    <mahara:showdescription>[false]</mahara:showdescription>
+                    
+                
+                    
+                    <mahara:photoframe>[false]</mahara:photoframe>
+                    
+                
+                    
+                    <mahara:width>[&quot;75&quot;]</mahara:width>
+                    
+                
+                    
+                    <mahara:retractable>[0]</mahara:retractable>
+                    
+                
+                    
+                    <mahara:retractedonload>[0]</mahara:retractedonload>
+                    
+                
+                    
+                    <mahara:artefactids>[[&quot;portfolio:artefact27930&quot;,&quot;portfolio:artefact27931&quot;,&quot;portfolio:artefact27932&quot;,&quot;portfolio:artefact27933&quot;]]</mahara:artefactids>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+            <mahara:blockinstance mahara:blocktype="placeholder" mahara:blocktitle="Mon Alternance chez GROUIK Construction" mahara:positionx="4" mahara:positiony="85" mahara:height="13" mahara:width="8">
+                
+                    
+                    <mahara:tags>[null]</mahara:tags>
+                    
+                
+                    
+                    <mahara:retractable>[0]</mahara:retractable>
+                    
+                
+                    
+                    <mahara:retractedonload>[0]</mahara:retractedonload>
+                    
+                
+                
+                
+            </mahara:blockinstance>
+            
+        
+        </mahara:view>
+    </entry>
+
+    <entry>
+        <title>CARTE MENTALE CONTRAINTES BIOTTEAU HOVAKIMYAN VALLEIX MESMIN CHAUVEL SATGER.jpg</title>
+        <id>portfolio:artefact27930</id>
+
+        <updated>2022-01-10T13:01:16+01:00</updated>
+        <published>2022-01-10T13:01:16+01:00</published>
+
+
+
+
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div></div></div></content>
+        <rdf:type rdf:resource="leap2:resource"/>
+        <mahara:artefactplugin mahara:type="image" mahara:plugin="file"/>
+        <link rel="enclosure" type="image/jpeg" href="export_info/files/27930-CARTE MENTALE CONTRAINTES BIOTTEAU HOVAKIMYAN VALLEIX MESMIN CHAUVEL SATGER.jpg"/>
+        <link rel="leap2:is_part_of" href="portfolio:view456"/>
+
+
+        <category term="Offline" scheme="categories:resource_type#" label="File"/>
+
+
+
+
+    </entry>
+
+
+    <entry>
+        <title>unknown.png</title>
+        <id>portfolio:artefact27931</id>
+
+        <updated>2022-01-10T13:01:45+01:00</updated>
+        <published>2022-01-10T13:01:45+01:00</published>
+
+
+
+
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div></div></div></content>
+        <rdf:type rdf:resource="leap2:resource"/>
+        <mahara:artefactplugin mahara:type="image" mahara:plugin="file"/>
+        <link rel="enclosure" type="image/png" href="export_info/files/27931-unknown.png"/>
+        <link rel="leap2:is_part_of" href="portfolio:view456"/>
+
+
+        <category term="Offline" scheme="categories:resource_type#" label="File"/>
+
+
+
+
+    </entry>
+
+
+    <entry>
+        <title>Chantier_Balma2.png</title>
+        <id>portfolio:artefact27932</id>
+
+        <updated>2022-01-10T13:01:55+01:00</updated>
+        <published>2022-01-10T13:01:55+01:00</published>
+
+
+
+
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div></div></div></content>
+        <rdf:type rdf:resource="leap2:resource"/>
+        <mahara:artefactplugin mahara:type="image" mahara:plugin="file"/>
+        <link rel="enclosure" type="image/png" href="export_info/files/27932-Chantier_Balma2.png"/>
+        <link rel="leap2:is_part_of" href="portfolio:view456"/>
+
+
+        <category term="Offline" scheme="categories:resource_type#" label="File"/>
+
+
+
+
+    </entry>
+
+
+    <entry>
+        <title>Travail étudiant carte mentale topo-corrigée.png</title>
+        <id>portfolio:artefact27933</id>
+
+        <updated>2022-01-10T13:01:23+01:00</updated>
+        <published>2022-01-10T13:01:23+01:00</published>
+
+
+
+
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div></div></div></content>
+        <rdf:type rdf:resource="leap2:resource"/>
+        <mahara:artefactplugin mahara:type="image" mahara:plugin="file"/>
+        <link rel="enclosure" type="image/png" href="export_info/files/27933-Travail étudiant carte mentale topo-corrigée.png"/>
+        <link rel="leap2:is_part_of" href="portfolio:view456"/>
+
+
+        <category term="Offline" scheme="categories:resource_type#" label="File"/>
+
+
+
+
+    </entry>
+
+
+</feed>
